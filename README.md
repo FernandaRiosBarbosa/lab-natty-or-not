@@ -1,16 +1,17 @@
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criação de E-Book sobre o tema "Como a IA Generativa pode auxiliar na redução do efeito estufa no planeta"
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+IAs Generativas site GPT
+Power Point
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Criação do conteúdo através do site GPT
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O projeto apresentou o resultado de reflexão e busca de soluções para as questões climáticas
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+
